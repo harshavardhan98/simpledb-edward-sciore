@@ -1,6 +1,6 @@
 Reference: https://gist.github.com/ankithooda/b0d624aec9b3ed2882713d59feba4b11
-
 # Get SimpleDB_3.4.zip from here - http://www.cs.bc.edu/~sciore/simpledb/
+
 
 # Tested using OpenJDK 17.0.2
 
